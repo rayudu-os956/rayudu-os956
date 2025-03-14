@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Rayudu, a Master's student at Deakin University, specializing in Software Development. Passionate about coding, problem-solving, and building innovative tech solutions!
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  glvsrayudu956@gmail.com.
 - 😄 Pronouns:  He/Him.
 - ⚡ Fun fact:  I successfully trained a junior team in React despite it being outside my usual responsibilities!🤡🤡
--->
+
