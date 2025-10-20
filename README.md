@@ -11,4 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  glvsrayudu956@gmail.com.
 - 😄 Pronouns:  He/Him.
 - ⚡ Fun fact:  I successfully trained a junior team in React despite it being outside my usual responsibilities!🤡🤡
+## 📊 GitHub Insight
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rayudu-os956&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayudu-os956&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rayudu-os956&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayudu-os956&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
