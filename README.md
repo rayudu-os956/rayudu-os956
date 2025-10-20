@@ -1,8 +1,7 @@
 <!-- 🌊 One Piece x Developer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rayudu-os956/rayudu-os956/main/eq4SQrprgttkiaxmWqTmXu8zmkS58nQG2LbB7_U5GnU.jpg.webp" 
-       alt="Rayudu GitHub Banner" 
-       width="100%" />
+  <img src="https://raw.githubusercontent.com/rayudu-os956/rayudu-os956/main/onepiece_banner.jpg" 
+       alt="Rayudu GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">☠️ Leela Venkata Subba Rayudu Gudipalli ☠️</h1>
