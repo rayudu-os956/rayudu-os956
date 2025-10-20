@@ -50,8 +50,8 @@ My journey blends **AI, IoT, and Blockchain** into innovative, real-world applic
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/leela-venkata-subba-rayudu-gudipalli"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
-  <a href="mailto:rayudugudipalli@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/glvs-rayudu-ba0218190/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
+  <a href="mailto:glvsrayudu956@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" /></a>
   <a href="https://github.com/rayudu-os956"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
 </p>
 
