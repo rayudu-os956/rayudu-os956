@@ -5,13 +5,13 @@
 </p>
 
 <h1 align="center">☠️ Leela Venkata Subba Rayudu Gudipalli ☠️</h1>
-<h3 align="center">💻 Cloud-Native Developer | DevOps Engineer | AI & IoT Innovator 🌊</h3>
+<h3 align="center">💻 C# .NET Developer | DevOps Engineer | AI & IoT Innovator 🌊</h3>
 
 ---
 
 ### 🏴‍☠️ About Me
 > “The world’s not just data and code — it’s an ocean of innovation waiting to be explored.” 🌍  
-I’m an aspiring **Dotnet Developer  and DevOps Engineer** passionate about building scalable, secure systems using **.NET, Docker, Kubernetes, and Azure**.  
+I’m an aspiring ** Dotnet Developer  and DevOps Engineer** passionate about building scalable, secure systems using **.NET, Docker, Kubernetes, and Azure**.  
 My journey blends **AI, IoT, and Blockchain** into innovative, real-world applications — the Grand Line of modern tech!
 
 ---
