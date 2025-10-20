@@ -1,6 +1,8 @@
 <!-- 🌊 One Piece x Developer Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/tX2bShK/onepiece-github-banner.png" alt="Rayudu GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rayudu-os956/rayudu-os956/main/eq4SQrprgttkiaxmWqTmXu8zmkS58nQG2LbB7_U5GnU.jpg.webp" 
+       alt="Rayudu GitHub Banner" 
+       width="100%" />
 </p>
 
 <h1 align="center">☠️ Leela Venkata Subba Rayudu Gudipalli ☠️</h1>
@@ -10,7 +12,7 @@
 
 ### 🏴‍☠️ About Me
 > “The world’s not just data and code — it’s an ocean of innovation waiting to be explored.” 🌍  
-I’m an aspiring **Cloud-Native Developer and DevOps Engineer** passionate about building scalable, secure systems using **.NET, Docker, Kubernetes, and Azure**.  
+I’m an aspiring **Dotnet Developer  and DevOps Engineer** passionate about building scalable, secure systems using **.NET, Docker, Kubernetes, and Azure**.  
 My journey blends **AI, IoT, and Blockchain** into innovative, real-world applications — the Grand Line of modern tech!
 
 ---
@@ -37,10 +39,7 @@ My journey blends **AI, IoT, and Blockchain** into innovative, real-world applic
 ### ⚓ Projects on My Voyage
 | 🌊 Project | ⚙️ Description |
 |------------|----------------|
-| 🧠 [**Sleep Stage Classifier (AI + IoT)**](https://github.com/rayudu-os956/SleepStage-AI) | Deep learning for EEG + wearable data fusion |
-| 🧾 [**SpendWise**](https://github.com/rayudu-os956/SpendWise) | Cloud-native expense manager using Docker, MongoDB & GCP |
-| 🍏 [**NutriHelp API**](https://github.com/rayudu-os956/Nutrihelp-api) | Health API powered by .NET, Azure Blob, and PostgreSQL |
-| 🛍️ [**E-Commerce DevOps Pipeline**](https://github.com/rayudu-os956/SIT722-Task10.2D) | CI/CD automation with Azure AKS & GitHub Actions |
+
 
 ---
 
