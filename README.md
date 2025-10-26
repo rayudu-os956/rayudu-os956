@@ -61,4 +61,4 @@ My journey blends **AI, IoT, and Blockchain** into innovative, real-world applic
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayudu-os956&theme=tokyo-night" width="95%"/>
 </p>
 
-<p align="center">⭐ “Sailing through the sea of code, chasing innovation and dreams.” ⭐</p>
+<p align="center">⭐ “Sailing through the sea of code, chasing innovation and dreams.little lazy in ocean” ⭐</p>
